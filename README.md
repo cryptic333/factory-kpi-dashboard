@@ -22,3 +22,6 @@ This project demonstrates a smart manufacturing analytics dashboard built using 
 # Output
 
 ![Image 1](image_0.png)
+![Image 2](image_1.png)
+![Image 3](image_2.png)
+![Image 4](image_3.png)
