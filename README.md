@@ -17,3 +17,8 @@ This project demonstrates a smart manufacturing analytics dashboard built using 
 ## How to Run
 1. pip install pandas streamlit matplotlib numpy
 2. streamlit run app.py
+
+
+# Output
+
+![Image 1](image_0.png)
